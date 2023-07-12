@@ -20,7 +20,6 @@ header{
 }
 
 .htext{
-    /* background-color: greenyellow; */
     width: 708px;
     margin-right: 97px;
     margin-bottom: 50px;
@@ -102,7 +101,6 @@ header{
 }
 
 .f1{
-    /* background-color: gold; */
     width: 310px;
     height: 428px;
     margin: 0 auto;
@@ -134,7 +132,6 @@ header{
 }
 
 .f2{
-    /* background-color: gold; */
     width: 370px;
     height: 370px;
     margin: 0 auto;
@@ -163,7 +160,6 @@ header{
 }
 
 .f3{
-    /* background-color: gold; */
     width: 314px;
     height: 471px;
     margin: 0 auto;
@@ -201,7 +197,6 @@ header{
 .insidefeatureItem2{
     width: 1190px;
     height: 147px;
-    /* background-color: rebeccapurple; */
     margin: auto;
     display: flex;
 }
@@ -276,7 +271,6 @@ header{
 }
 
 .hotDeal-container{
-    /* background-color: #1E1E1E; */
     width: 1098px;
     height: 420px;
     display: flex;
@@ -284,7 +278,6 @@ header{
 }
 
 .hotDeal-text{
-    /* background-color: #E55473; */
     width: 594px;
     height: 228px;
     margin-right: 186px;
@@ -332,7 +325,6 @@ header{
 .hotDeal-img{
     width: 318px;
     height: 420px;
-    /* background-color: #D9EFF1; */
     margin-top: 100px;
     margin-bottom: 100px;
 }
@@ -410,13 +402,56 @@ header{
     width: 100%;
 }
 
+.about-container{
+    width: 1440px;
+    height: 500px;
+    margin: 0 auto;
+}
+.about-title h2{
+    font-size: 40px;
+    font-weight: 800;
+    color: #272727;
+    text-align: center;
+    margin-bottom: 24px;
+    padding-top: 24px;
+    text-decoration: underline;
+}
+
+.about-item{
+    display: flex;
+}
+
+.about-img{
+    padding-top: 24px;
+    margin-top: 24px;
+    height: 405px;
+    width: 600px;
+}
+.about-img img{
+    width: 100%;
+    border:10px solid #272727;
+}
+
+.about-text{
+    margin-left: 100px;
+    width: 700px;
+    height: 405px;
+}
+.about-text p{
+    padding-top: 50px;
+    color: #272727;
+    font-size: 24px;
+    font-weight: 400;
+    text-align: justify;
+
+}
+
 #subscribe{
     margin-bottom: 128px;
 }
 .subscribe-img{
     width: 1440px;
     height: 449px;
-    /* background-color: #DF7764; */
     background-image: url("images/Rectangle-9.png");
     margin: 0 auto;
     margin-top: 128px;
@@ -427,7 +462,6 @@ header{
     margin: 0 auto;
     height: 206px;
     margin-top: 122px;
-    /* margin-bottom: 121px; */
     text-align: center;
 }
 .subscribe-title h2{
@@ -438,7 +472,6 @@ header{
     color: #272727;
     text-align: center;
     margin-bottom: 16px;
-    /* margin-top: 250px; */
 }
 
 .subscribe-title p{
@@ -482,7 +515,6 @@ input[type=text], select {
 
 
 .input{
-    /* margin-top: 264px; */
     margin: 0 auto;
     text-align: center;
 }
